@@ -113,6 +113,8 @@ This image shows the secondary UI elements that will be modified:
 ## Font Credits
 
 This project uses fonts created by Daniel Linssen:
+- [M3x3](https://managore.itch.io/m3x7)
+- [M5x7](https://managore.itch.io/m5x7)
 - [M6x11](https://managore.itch.io/m6x11)
 
 Please visit the links above to support the font creator and learn more about their work.
