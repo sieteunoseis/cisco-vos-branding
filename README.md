@@ -1,4 +1,4 @@
-# Cisco CUCM Branding Generator
+# Cisco VOS Branding Generator
 
 This script generates branding assets for Cisco UC applications. It allows you to create custom themes with either solid colors or gradients.
 
