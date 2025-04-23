@@ -1,3 +1,6 @@
 /.DS_Store
 /.venv
-/branding.zip
+*.zip
+CLAUDE.md
+branding/.DS_Store
+colors.txt
